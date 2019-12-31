@@ -299,7 +299,7 @@ transition-delay:.2s;
 
 	      	<div class="overlay">
            <h2>Cabañas</h2>
-           <a class="info" href="{{route('suite_room')}}">Leer Más</a>
+           <a class="info" href="{{route('suite_room')}}">FALTA PAGINA</a>
         </div>
 	        
 	        <p>
@@ -317,7 +317,7 @@ transition-delay:.2s;
 
         <div class="overlay">
            <h2>Cabañas</h2>
-           <a class="info" href="{{route('suite_room')}}">Leer Más</a>
+           <a class="info" href="{{route('suite_room')}}">FALTA PAGINA</a>
         </div>
 	        
 	        <p>
@@ -335,7 +335,7 @@ transition-delay:.2s;
 
         <div class="overlay">
            <h2>Cabañas</h2>
-           <a class="info" href="{{route('suite_room')}}">Leer Más</a>
+           <a class="info" href="{{route('suite_room')}}">FALTA PAGINA</a>
         </div>
 	       
 	        <p>
